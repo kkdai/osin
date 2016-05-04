@@ -14,10 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/RangelReale/osin"
-	"github.com/RangelReale/osin/example"
-
-	"gopkg.in/square/go-jose.v1"
+	"github.com/kkdai/osin"
+	"github.com/kkdai/osin/example"
 )
 
 var (
